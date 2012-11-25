@@ -14,7 +14,7 @@
 
 	<table border="1" style="border-collapse: collapse;"
 		style="width:800px">
-		<tbody>
+		<tbody> 
 			<tr>
 				<td height="30" colspan="2"><tiles:insertAttribute
 						name="header" /></td>
