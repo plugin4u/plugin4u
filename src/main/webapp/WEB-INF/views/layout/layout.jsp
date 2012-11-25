@@ -6,6 +6,7 @@
 
 <html>
 <head>
+<script type="text/javascript"></script>
 <title><tiles:insertAttribute name="title" ignore="true" /></title>
 
 </head>
